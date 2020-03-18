@@ -1,5 +1,3 @@
-require "pry"
-
 class RomanNumerals
   class InvalidNumeral < ArgumentError; end
 
